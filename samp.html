@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel=" stylesheet " href="samp.css ">
+    <title>CGPA Calculator</title>
+    
+</head>
+
+<body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <div class="header">
+        <h1>CGPA Calculator</h1>
+    </div>
+    <div id='cgpa'>
+        <div id="semesters"></div>
+        <div id="overall-gpa-display">
+            GPA for Current Semester: N/A
+        </div>
+
+        <!-- Display overall CGPA -->
+        <div id="overall-cgpa-display">
+            Overall CGPA: N/A
+        </div>
+    </div>
+    <button onclick="addSemester()">Add Semester</button>
+    <button id="screenshot-button">Download</button>
+
+
+    <footer>
+        <div class="footer-container">
+            <div class="footer-section logo">
+                <h1>CGPA CALZ</h1>
+                <p>Elegance meets excellence. Discover the difference with us.</p>
+                <div class="socials ">
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+            </div>
+            <div class="footer-section links ">
+                <h2>Explore</h2>
+                <ul>
+                    <li><a href="# ">Home</a></li>
+                    <li><a href="# ">About</a></li>
+                    <li><a href="# ">Services</a></li>
+                    <li><a href="# ">Portfolio</a></li>
+                    <li><a href="# ">Contact</a></li>
+                </ul>
+            </div>
+            <div class="footer-section newsletter ">
+                <h2>Newsletter</h2>
+                <p>Subscribe to our newsletter to stay updated on our latest news and offers.</p>
+                <form action="# " method="post ">
+                    <input type="email " name="email " placeholder="Enter your email " required>
+                    <button type="submit ">Subscribe</button>
+                </form>
+            </div>
+        </div>
+        <div class="footer-bottom ">
+            <p>&copy; 2024 CGPA CALZ. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="mainpage.js">
+    </script>
+</body>
+
+</html>
