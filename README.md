@@ -49,7 +49,6 @@ The CGPA (Cumulative Grade Point Average) is calculated based on the grades you 
 - Sum the grade points for all subjects and divide by the total credits to get the GPA for the semester.
 - The **CGPA** is the average of all semester GPAs, weighted by credits.
 
-## 📦 Installation
 
 To get the project running on your local machine:
 
