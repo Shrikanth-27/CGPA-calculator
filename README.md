@@ -14,15 +14,7 @@ A simple CGPA calculator built using **JavaScript**, **HTML**, and **CSS**. This
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## 📊 Language & Repo Stats
 
-![Top Language](https://img.shields.io/github/languages/top/GokulakrishnanSivalingam/cgpa-calculator)
-![Languages Count](https://img.shields.io/github/languages/count/GokulakrishnanSivalingam/cgpa-calculator)
-![Repo Size](https://img.shields.io/github/repo-size/GokulakrishnanSivalingam/cgpa-calculator)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/GokulakrishnanSivalingam/cgpa-calculator)
-![Last Commit](https://img.shields.io/github/last-commit/GokulakrishnanSivalingam/cgpa-calculator)
-![Issues](https://img.shields.io/github/issues/GokulakrishnanSivalingam/cgpa-calculator)
-![Pull Requests](https://img.shields.io/github/issues-pr/GokulakrishnanSivalingam/cgpa-calculator)
 ## 📋 How CGPA is Calculated
 
 The CGPA (Cumulative Grade Point Average) is calculated based on the grades you achieve in each subject and their corresponding credits. Here’s how it works:
@@ -50,9 +42,5 @@ The CGPA (Cumulative Grade Point Average) is calculated based on the grades you 
 - The **CGPA** is the average of all semester GPAs, weighted by credits.
 
 
-To get the project running on your local machine:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/GokulakrishnanSivalingam/cgpa-calculator.git
-   cd cgpa-calculator
+
